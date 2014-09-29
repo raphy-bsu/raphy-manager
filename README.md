@@ -1,7 +1,7 @@
 RaphyManager
 ============
 
-A simple manager for virtual machines for **laboratory exercises**
+A simple virtual machines manager to provide safe & clean environment for **laboratory exercises**
 
 ## Aims:
 
